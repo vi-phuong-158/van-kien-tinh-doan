@@ -1,0 +1,20 @@
+{
+  "name": "Văn kiện Đại hội Chi đoàn PA01 & PA08",
+  "short_name": "Văn kiện Đại hội",
+  "description": "Văn kiện Đại hội Chi đoàn Phòng PA01 & PA08 nhiệm kỳ 2025-2027",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b2a8f",
+  "theme_color": "#1a3a6e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_Doan_TNCS_HCM.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "education", "politics"],
+  "lang": "vi"
+}
